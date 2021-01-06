@@ -1,4 +1,4 @@
-package net.shybaieva;
+package net.shybaieva.LinkedList;
 
 import java.util.NoSuchElementException;
 

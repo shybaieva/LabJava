@@ -1,7 +1,4 @@
-package net.shybaieva;
-
-import java.util.LinkedList;
-import java.util.Random;
+package net.shybaieva.LinkedList;
 
 
 public class Main {
