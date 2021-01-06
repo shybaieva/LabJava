@@ -1,4 +1,4 @@
-package net.shybaieva.LinkedList;
+package net.shybaieva.ArrayList;
 
 
 public class Main {
